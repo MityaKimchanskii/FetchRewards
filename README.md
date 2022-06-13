@@ -8,7 +8,6 @@ The following features are implemented:
 
 * [+] REST API
 * [+] MVP
-* [+] CocoaPods SDWebImage
 * [+] UITableView
 
 ## Video Walkthrough
